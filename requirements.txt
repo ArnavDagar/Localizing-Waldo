@@ -1,0 +1,51 @@
+# Localizing-Waldo Dependencies
+# =============================
+
+# Core Scientific Computing
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Deep Learning (for Waldo 2 Landmark Classification)
+tensorflow>=2.8.0
+keras>=2.8.0
+scikit-learn>=1.0.0
+
+# Visualization
+pygame>=2.1.0
+
+# YAML Configuration
+PyYAML>=6.0
+
+# =============================
+# Raspberry Pi Hardware Libraries
+# (Install only on Raspberry Pi)
+# =============================
+
+# LiDAR Sensors
+# rplidar-roboticia>=0.9.0  # RPLidar A1 driver
+# tfluna>=0.1.0             # TF Luna driver
+
+# Camera
+# picamera>=1.13            # Raspberry Pi Camera
+
+# LEGO Motors & Sensors
+# buildhat>=0.5.0           # Raspberry Pi Build HAT for LEGO
+
+# Bluetooth Control
+# bluedot>=2.0.0            # BlueDot remote control app
+
+# GPIO
+# RPi.GPIO>=0.7.0           # Raspberry Pi GPIO
+
+# Movie Processing
+moviepy>=1.0.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
